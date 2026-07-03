@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "PM Kisan",
+    "category": "Agriculture",
+    "description": "Provides financial assistance of ₹6,000 per year to eligible farmer families.",
+    "eligibility": "Small and marginal farmers.",
+    "benefits": "₹2,000 is credited in three installments every year.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Land Records"
+    ],
+    "official_website": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 2,
+    "name": "Ayushman Bharat",
+    "category": "Health",
+    "description": "Provides health insurance coverage up to ₹5 lakh per family.",
+    "eligibility": "Eligible families identified under SECC data.",
+    "benefits": "Cashless treatment in empanelled hospitals.",
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "official_website": "https://pmjay.gov.in"
+  },
+  {
+    "id": 3,
+    "name": "Startup India",
+    "category": "Business",
+    "description": "Supports startups through tax benefits, funding, and simplified compliance.",
+    "eligibility": "DPIIT-recognized startups.",
+    "benefits": "Funding support, tax exemptions, and incubation.",
+    "documents": [
+      "PAN Card",
+      "Business Registration"
+    ],
+    "official_website": "https://www.startupindia.gov.in"
+  }
+]
