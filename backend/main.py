@@ -48,19 +48,33 @@ def ask_question(data: Question):
     question = data.question.lower()
 
     for scheme in schemes:
+
+        # Search by scheme name
         if scheme["name"].lower() in question:
             return {
-                "scheme": scheme.get("name", ""),
-                "category": scheme.get("category", ""),
-                "description": scheme.get("description", ""),
-                "eligibility": scheme.get("eligibility", ""),
-                "benefits": scheme.get("benefits", ""),
-                "documents": scheme.get("documents", []),
-                "official_website": scheme.get("official_website", "")
+                "scheme": scheme["name"],
+                "category": scheme["category"],
+                "description": scheme["description"],
+                "eligibility": scheme["eligibility"],
+                "benefits": scheme["benefits"],
+                "documents": scheme["documents"],
+                "official_website": scheme["official_website"]
             }
 
+        # Search by keywords
+        for keyword in scheme.get("keywords", []):
+            if keyword.lower() in question:
+                return {
+                    "scheme": scheme["name"],
+                    "category": scheme["category"],
+                    "description": scheme["description"],
+                    "eligibility": scheme["eligibility"],
+                    "benefits": scheme["benefits"],
+                    "documents": scheme["documents"],
+                    "official_website": scheme["official_website"]
+                }
+
     return {
-        "scheme": None,
         "message": "No matching scheme found"
     }
 

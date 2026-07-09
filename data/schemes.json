@@ -11,7 +11,13 @@
       "Bank Passbook",
       "Land Records"
     ],
-    "official_website": "https://pmkisan.gov.in"
+    "official_website": "https://pmkisan.gov.in",
+    "keywords": [
+      "farmer",
+      "agriculture",
+      "crop",
+      "kisan"
+    ]
   },
   {
     "id": 2,
@@ -24,7 +30,13 @@
       "Aadhaar Card",
       "Ration Card"
     ],
-    "official_website": "https://pmjay.gov.in"
+    "official_website": "https://pmjay.gov.in",
+    "keywords": [
+      "health",
+      "hospital",
+      "medical",
+      "insurance"
+    ]
   },
   {
     "id": 3,
@@ -37,6 +49,72 @@
       "PAN Card",
       "Business Registration"
     ],
-    "official_website": "https://www.startupindia.gov.in"
+    "official_website": "https://www.startupindia.gov.in",
+    "keywords": [
+      "startup",
+      "business",
+      "company",
+      "entrepreneur"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PM Mudra Yojana",
+    "category": "Business",
+    "description": "Provides collateral-free loans to small businesses and entrepreneurs.",
+    "eligibility": "Small business owners and startups.",
+    "benefits": "Loans up to ₹10 lakh.",
+    "documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Business Proof"
+    ],
+    "official_website": "https://www.mudra.org.in",
+    "keywords": [
+      "loan",
+      "business",
+      "money",
+      "mudra"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "PM Awas Yojana",
+    "category": "Housing",
+    "description": "Provides financial assistance to eligible families for constructing or purchasing affordable houses.",
+    "eligibility": "Economically Weaker Sections (EWS), Low Income Groups (LIG), and eligible beneficiaries.",
+    "benefits": "Interest subsidy on home loans and financial support for housing.",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Address Proof"
+    ],
+    "official_website": "https://pmaymis.gov.in",
+    "keywords": [
+      "house",
+      "home",
+      "housing",
+      "construction"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Atal Pension Yojana",
+    "category": "Pension",
+    "description": "A government-backed pension scheme for workers in the unorganized sector.",
+    "eligibility": "Indian citizens aged 18–40 years with a savings bank account.",
+    "benefits": "Guaranteed monthly pension ranging from ₹1,000 to ₹5,000 after the age of 60.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Mobile Number"
+    ],
+    "official_website": "https://www.npscra.nsdl.co.in",
+    "keywords": [
+      "pension",
+      "retirement",
+      "old age",
+      "senior"
+    ]
   }
 ]
