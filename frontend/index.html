@@ -1,39 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BharatSaarthi AI</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <div class="container">
+<div class="container">
+
+    <div class="header">
+
+        <div class="logo">
+            🇮🇳
+        </div>
 
         <h1>BharatSaarthi AI</h1>
 
         <p>AI Powered Government Scheme Assistant</p>
 
+    </div>
+
+    <div class="search-box">
+
         <input
             type="text"
             id="question"
-            placeholder="Ask your question here..."
+            placeholder="Ask about any Government Scheme..."
         >
 
         <button onclick="sendQuestion()">
-            Send
+            🔍 Search Scheme
         </button>
 
-        <div id="response">
-            AI response will appear here...
+    </div>
+
+    <div id="response">
+
+        <div class="welcome-card">
+
+            <h2>👋 Welcome!</h2>
+
+            <p>
+                Ask questions like:
+            </p>
+
+            <ul>
+                <li>🌾 I am a farmer</li>
+                <li>🏥 I need health insurance</li>
+                <li>🏠 I want to build a house</li>
+                <li>💼 I want to start a business</li>
+                <li>💰 I need a business loan</li>
+            </ul>
+
         </div>
 
     </div>
 
-    <script src="script.js"></script>
+</div>
+
+<script src="script.js"></script>
 
 </body>
-
 </html>
