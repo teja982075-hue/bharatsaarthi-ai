@@ -1,72 +1,126 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>BharatSaarthi AI</title>
 
-    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
 
-<div class="container">
+    <div class="container">
 
-    <div class="header">
+        <div class="header">
 
-        <div class="logo">
-            🇮🇳
-        </div>
+            <div class="logo">
+                🇮🇳
+            </div>
 
-        <h1>BharatSaarthi AI</h1>
-
-        <p>AI Powered Government Scheme Assistant</p>
-
-    </div>
-
-    <div class="search-box">
-
-        <input
-            type="text"
-            id="question"
-            placeholder="Ask about any Government Scheme..."
-        >
-
-        <button onclick="sendQuestion()">
-            🔍 Search Scheme
-        </button>
-
-    </div>
-
-    <div id="response">
-
-        <div class="welcome-card">
-
-            <h2>👋 Welcome!</h2>
+            <h1>BharatSaarthi AI</h1>
 
             <p>
-                Ask questions like:
+                AI Powered Government Scheme Assistant
             </p>
 
-            <ul>
-                <li>🌾 I am a farmer</li>
-                <li>🏥 I need health insurance</li>
-                <li>🏠 I want to build a house</li>
-                <li>💼 I want to start a business</li>
-                <li>💰 I need a business loan</li>
-            </ul>
+        </div>
+
+        <div class="search-box">
+
+            <input
+                type="text"
+                id="question"
+                placeholder="Ask about any Government Scheme..."
+            >
+
+            <button onclick="sendQuestion()">
+                🔍 Search
+            </button>
+
+            <button id="voiceBtn">
+                🎤 Voice
+            </button>
+
+        </div>
+
+        <div class="quick-search">
+
+            <button onclick="fillQuestion('I am a farmer')">
+                🌾 Farmer
+            </button>
+
+            <button onclick="fillQuestion('I need health insurance')">
+                🏥 Health
+            </button>
+
+            <button onclick="fillQuestion('I need a business loan')">
+                💰 Loan
+            </button>
+
+            <button onclick="fillQuestion('I want to build a house')">
+                🏠 Housing
+            </button>
+
+            <button onclick="fillQuestion('I need pension')">
+                👴 Pension
+            </button>
+
+        </div>
+
+        <div id="response">
+
+            <div class="welcome-card">
+
+                <h2>
+                    👋 Welcome
+                </h2>
+
+                <p>
+
+                    BharatSaarthi AI helps you discover Central Government schemes using Artificial Intelligence.
+
+                </p>
+
+                <br>
+
+                <p>
+                    Try asking:
+                </p>
+
+                <ul>
+
+                    <li>🌾 I am a farmer</li>
+
+                    <li>🏥 I need health insurance</li>
+
+                    <li>🏠 I want to build a house</li>
+
+                    <li>💰 I need a business loan</li>
+
+                    <li>👴 I need pension</li>
+
+                </ul>
+
+            </div>
 
         </div>
 
     </div>
 
-</div>
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 
 </body>
+
 </html>
