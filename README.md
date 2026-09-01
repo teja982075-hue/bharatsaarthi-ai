@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bollela Tejasri</h1>
+<h1 align="center">Hi, I'm Bollela Tejasri</h1>
 
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
 
@@ -6,12 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20views&color=0e75b6&style=flat" alt="teja982075-hue" />
 </p>
 
-* 🎓 I'm a B.Tech Computer Science Engineering (AI & ML) student.
-* 💻 I'm interested in Software Development, AI/ML and building practical applications.
-* 🔭 I'm currently working on [BharatSaarthi AI](https://github.com/teja982075-hue/bharatsaarthi-ai)
-* 🌱 I'm currently learning **C++, Node.js and advanced AI/ML concepts**
-* 🤖 I enjoy building AI-powered applications and exploring new technologies.
-* 📫 How to reach me: **[teja982075@gmail.com](mailto:teja982075@gmail.com)**
+*  I'm a B.Tech Computer Science Engineering (AI & ML) student.
+*  I'm interested in Software Development, AI/ML and building practical applications.
+*  I'm currently working on [BharatSaarthi AI](https://github.com/teja982075-hue/bharatsaarthi-ai)
+*  I'm currently learning **C++, Node.js and advanced AI/ML concepts**
+*  I enjoy building AI-powered applications and exploring new technologies.
+*  How to reach me: **[teja982075@gmail.com](mailto:teja982075@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 
