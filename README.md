@@ -1,83 +1,164 @@
 <h1 align="center">Hi 👋, I'm Bollela Tejasri</h1>
 
-<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
+<h3 align="center">
+B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20views&color=0e75b6&style=flat" alt="teja982075-hue" />
 </p>
 
-* 🎓 I'm a B.Tech Computer Science Engineering (AI & ML) student.
-* 💻 I'm interested in Software Development, AI/ML and building practical applications.
-* 🔭 I'm currently working on [BharatSaarthi AI](https://github.com/teja982075-hue/bharatsaarthi-ai)
-* 🌱 I'm currently learning **C++, Node.js and advanced AI/ML concepts**
-* 🤖 I enjoy building AI-powered applications and exploring new technologies.
-* 📫 How to reach me: **[teja982075@gmail.com](mailto:teja982075@gmail.com)**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering student specializing in **AI & Machine Learning**
+- 💻 Interested in **Software Development, AI/ML and Web Development**
+- 🔭 Currently working on **BharatSaarthi AI**
+- 🌱 Currently learning **C++, Node.js and advanced AI/ML concepts**
+- 🤖 Interested in building **AI-powered applications**
+- 🚀 Always learning and exploring new technologies
+- 📫 Reach me at **teja982075@gmail.com**
+
+---
+
+### 🚀 Featured Project
+
+**BharatSaarthi AI – AI-Powered Multilingual Government Services Assistant**
+
+An AI-powered application designed to help users discover and understand government schemes and services through a simple interface.
+
+🔗 **Project:**  
+https://github.com/teja982075-hue/bharatsaarthi-ai
+
+---
+
+### 🔗 Connect with Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/bollela-tejasri-82ab84378/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
 
 <a href="https://instagram.com/teju___019" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
 </a>
 
 <a href="https://www.codechef.com/users/bollela_teju" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/teja982075" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
 </a>
 
 <a href="https://codeforces.com/profile/teju_bollela" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
 </a>
 
 <a href="https://leetcode.com/u/bollela_teju/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/tejasri" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
 </a>
+
 </p>
 
-<h3 align="left">Languages & Technologies:</h3>
+---
+
+### 💻 Languages
 
 <p align="left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+
 </p>
 
-<h3 align="left">AI/ML:</h3>
+---
+
+### 🌐 Web Development
 
 <p align="left">
-<b>Machine Learning • Deep Learning • NLP • Scikit-learn • TensorFlow • Keras • Hugging Face • BERT • Sentence-BERT • Pandas • NumPy</b>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja982075-hue&show_icons=true&locale=en&layout=compact" alt="teja982075-hue" />
+### 🤖 AI / Machine Learning
+
+**Machine Learning • Deep Learning • NLP • Scikit-learn • TensorFlow • Keras • Hugging Face • BERT • Sentence-BERT**
+
+**Pandas • NumPy**
+
+---
+
+### 🗄️ Databases
+
+**MySQL • PostgreSQL • MongoDB • Firebase • Oracle**
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teja982075-hue&show_icons=true&locale=en" alt="teja982075-hue" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja982075-hue&show_icons=true&locale=en" alt="Tejasri's GitHub Stats"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="teja982075-hue" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="Tejasri's GitHub Streak"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- C++
+- Node.js
+- Data Structures & Algorithms
+- Advanced Machine Learning
+- AI-powered application development
+
+---
+
+### ⭐ Thank You for Visiting!
+
+<p align="center">
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
