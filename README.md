@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm Bollela Tejasri</h1>
+<h1 align="center">Hi, I'm Bollela Tejasri</h1>
 
 <h3 align="center">
 B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20views&color=0e75b6&style=flat" alt="teja982075-hue" />
+<img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20views&color=0e75b6&style=flat" alt="teja982075-hue" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Engineering student specializing in **AI & Machine Learning**
-- 💻 Interested in **Software Development, AI/ML and Web Development**
-- 🔭 Currently working on **BharatSaarthi AI**
-- 🌱 Currently learning **C++, Node.js and advanced AI/ML concepts**
-- 🤖 Interested in building **AI-powered applications**
-- 🚀 Always learning and exploring new technologies
-- 📫 Reach me at **teja982075@gmail.com**
+- B.Tech Computer Science Engineering student specializing in AI & Machine Learning
+- Interested in Software Development, AI/ML and Web Development
+- Currently working on BharatSaarthi AI
+- Currently learning C++, Node.js and advanced AI/ML concepts
+- Interested in building practical AI-powered applications
+- Continuously improving my programming and problem-solving skills
+- Email: **teja982075@gmail.com**
 
 ---
 
-### 🚀 Featured Project
+## Featured Project
 
-**BharatSaarthi AI – AI-Powered Multilingual Government Services Assistant**
+### BharatSaarthi AI
 
-An AI-powered application designed to help users discover and understand government schemes and services through a simple interface.
+AI-powered multilingual government services assistant designed to help users discover and understand government schemes and services through a simple interface.
 
-🔗 **Project:**  
+**Repository:**  
 https://github.com/teja982075-hue/bharatsaarthi-ai
 
 ---
 
-### 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
 
@@ -69,7 +69,7 @@ https://github.com/teja982075-hue/bharatsaarthi-ai
 
 ---
 
-### 💻 Languages
+## Languages
 
 <p align="left">
 
@@ -89,7 +89,7 @@ https://github.com/teja982075-hue/bharatsaarthi-ai
 
 ---
 
-### 🌐 Web Development
+## Web Development
 
 <p align="left">
 
@@ -107,21 +107,19 @@ https://github.com/teja982075-hue/bharatsaarthi-ai
 
 ---
 
-### 🤖 AI / Machine Learning
+## AI and Machine Learning
 
-**Machine Learning • Deep Learning • NLP • Scikit-learn • TensorFlow • Keras • Hugging Face • BERT • Sentence-BERT**
-
-**Pandas • NumPy**
+Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow, Keras, Hugging Face, BERT, Sentence-BERT, Pandas, NumPy
 
 ---
 
-### 🗄️ Databases
+## Databases
 
-**MySQL • PostgreSQL • MongoDB • Firebase • Oracle**
+MySQL, PostgreSQL, MongoDB, Firebase, Oracle
 
 ---
 
-### 🛠️ Tools
+## Tools
 
 <p align="left">
 
@@ -135,30 +133,28 @@ https://github.com/teja982075-hue/bharatsaarthi-ai
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja982075-hue&show_icons=true&locale=en" alt="Tejasri's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=teja982075-hue&show_icons=true&locale=en" alt="Tejasri's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="Tejasri's GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="Tejasri's GitHub Streak"/>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+## Currently Learning
 
 - C++
 - Node.js
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 - Advanced Machine Learning
 - AI-powered application development
 
 ---
 
-### ⭐ Thank You for Visiting!
-
 <p align="center">
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile.
 </p>
