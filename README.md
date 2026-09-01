@@ -2,7 +2,7 @@
 
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20Views&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=teja982075-hue&style=flat" alt="Profile Views" />
 </p>
 *  I'm a B.Tech Computer Science Engineering (AI & ML) student.
 *  I'm interested in Software Development, AI/ML and building practical applications.
