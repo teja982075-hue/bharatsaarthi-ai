@@ -69,6 +69,9 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+<a href="https://github.com/teja982075-hue" target="_blank">
+  GitHub
+</a>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="teja982075-hue" />
 </p>
