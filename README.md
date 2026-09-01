@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Bollela Tejasri</h1>
+<h1 align="center">Hi 👋, I'm Bollela Tejasri</h1>
 
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teja982075-hue&style=flat" alt="Profile Views" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=teja982075-hue&label=Profile%20views&color=0e75b6&style=flat" alt="teja982075-hue" />
 </p>
+
 *  I'm a B.Tech Computer Science Engineering (AI & ML) student.
 *  I'm interested in Software Development, AI/ML and building practical applications.
 *  I'm currently working on [BharatSaarthi AI](https://github.com/teja982075-hue/bharatsaarthi-ai)
@@ -67,9 +69,10 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<a href="https://github.com/teja982075-hue" target="_blank">
-  GitHub
-</a>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja982075-hue&show_icons=true&locale=en&layout=compact" alt="teja982075-hue" />
+</p>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="teja982075-hue" />
 </p>
