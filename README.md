@@ -70,9 +70,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teja982075-hue&show_icons=true&locale=en" alt="teja982075-hue" />
-</p>
-
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja982075-hue" alt="teja982075-hue" />
 </p>
